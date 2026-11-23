@@ -1,0 +1,3 @@
+Experiment,Best Epoch,Best Validation Precision,Best Validation Recall,Best Validation mAP50,Best Validation mAP50-95
+E1 - Baseline,17,0.7283,0.7201,0.7194,0.4648
+E2 - Augmentation,12,0.7481,0.7201,0.7453,0.4703
