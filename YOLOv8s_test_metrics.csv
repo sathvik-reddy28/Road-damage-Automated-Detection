@@ -1,0 +1,2 @@
+Model,Precision,Recall,mAP@50,mAP@50-95,Inference_speed_ms_per_image,Model_size_MB
+YOLOv8s,0.7645,0.7191,0.7742,0.5052,10.4,21.48
